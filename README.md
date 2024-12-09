@@ -25,6 +25,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/spizie15k/spizie15k/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/spizie15k/spizie15k/snake.svg" alt="Snake animation" />
 
 ###
